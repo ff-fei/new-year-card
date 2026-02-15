@@ -15,3 +15,5 @@ python-dotenv==1.0.0
 
 # Werkzeug (Flask依赖)
 Werkzeug==3.0.1
+
+gunicorn
